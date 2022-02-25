@@ -25,12 +25,12 @@ This guide will walk you through downloading and installing Pandoc, a universal 
 ## Images
 
 <figure>
-   <img src="images/pandoc.JPG" alt="Pandoc Download Page">
+   <img src="images/pandoc.JPG" alt="Pandoc Download Page" width="600" height="500">
    <figcaption>Figure 1: Pandoc download page.</figcaption>
 </figure>
 
 <figure>
-   <img src="images/command_prompt.JPG" alt="Windows Command Prompt">
+   <img src="images/command_prompt.JPG" alt="Windows Command Prompt" width="600" height="500">
    <figcaption>Figure 2: Windows Command Prompt.</figcaption>
 </figure>
 
