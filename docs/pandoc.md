@@ -24,10 +24,10 @@ This guide will walk you through downloading and installing Pandoc, a universal 
 
 ## Images
 
-![Pandoc Download Page](images/pandoc.jpg)
+![Pandoc Download Page](images/pandoc.JPG)
 
 <figure>
-   <img src="images/pandoc.jpg" alt="Picture of a BLT sandwich">
+   <img src="images/pandoc.JPG" alt="Picture of a BLT sandwich">
    <figcaption>Figure 1: Your sandwich should look like this</figcaption>
 </figure>
 
