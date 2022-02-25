@@ -11,21 +11,21 @@ file.
 
 ## Steps
 
-1. **Open** a terminal
-2. **Change** the directory in your terminal with the command
+1. **Open** a terminal.
+2. **Change** the directory in your terminal with the cd command (Figure 2).
 
     ``` linux
     cd
     ```
 
 3. **Navigate** to your markdown file in the terminal.
-4. **Use** the pandoc command to covert your markdown file
+4. **Use** the pandoc command to covert your markdown file.
 
     ``` linux
     pandoc -s source_file.md -o destination_file.docx
     ```
 
-    **Note** if you want to convert images as well, used the following command
+    **Note** if you want to convert images as well, used the following command.
 
     ``` linux
     pandoc -s source_file.md -t markdown --extract-media=images -o destination_file.docx

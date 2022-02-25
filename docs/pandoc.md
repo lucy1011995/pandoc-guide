@@ -12,9 +12,9 @@ This guide will walk you through downloading and installing Pandoc, a universal 
 2. **Navigate** to the Installing tab (Figure 1).
 3. **Download** the latest installer for your device.
 4. **Install** Pandoc.
-5. **Open** a terminal
+5. **Open** a terminal (Figure 2).
 
-   **note** for Windows use command prompt and for Mac use terminal
+   **note** for Windows use command prompt and for Mac use terminal.
 
 6. **Check** your Pandoc version with the command
 
