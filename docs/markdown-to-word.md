@@ -12,10 +12,10 @@ file.
 ## Steps
 
 1. **Open** a terminal.
-2. **Change** the directory in your terminal with the cd command (Figure 2).
+2. **Change** the directory in your terminal with the cd command (Figure 1).
 
     ``` linux
-    cd
+    cd directory
     ```
 
 3. **Navigate** to your markdown file in the terminal.

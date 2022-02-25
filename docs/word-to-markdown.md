@@ -15,7 +15,7 @@ file.
 2. **Change** the directory in your terminal with the cd command (Figure 1).
 
     ``` linux
-    cd
+    cd directory
     ```
 
 3. **Navigate** to your word file in the terminal.
