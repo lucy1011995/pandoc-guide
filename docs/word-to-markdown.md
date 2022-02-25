@@ -36,7 +36,7 @@ file.
 ## Images
 
 <figure>
-   <img src="images/cd.JPG" alt="cd Command" width="600" height="500">
+   <img src="images/cd.JPG" alt="cd Command" width="600" height="300">
    <figcaption>Figure 1:  Using the cd command to switch directories.</figcaption>
 </figure>
 
