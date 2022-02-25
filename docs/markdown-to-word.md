@@ -33,8 +33,11 @@ file.
 
 5. **Clean** up the newly created file.
 
-![cd Command](images/cd.jpg)
+## Images
 
-Figure 1: Using the cd command to switch directories.
+<figure>
+   <img src="images/cd.JPG" alt="cd Command">
+   <figcaption>Figure 1:  Using the cd command to switch directories.</figcaption>
+</figure>
 
 {% include footer.md %}
