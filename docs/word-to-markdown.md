@@ -35,8 +35,9 @@ file.
 
 ## Images
 
-![cd Command](images/cd.jpg)
-
-Figure 1: Using the cd command to switch directories.
+<figure>
+   <img src="images/cd.JPG" alt="cd Command" width="600" height="500">
+   <figcaption>Figure 1:  Using the cd command to switch directories.</figcaption>
+</figure>
 
 {% include footer.md %}
