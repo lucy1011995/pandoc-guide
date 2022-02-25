@@ -26,6 +26,11 @@ This guide will walk you through downloading and installing Pandoc, a universal 
 
 ![Pandoc Download Page](images/pandoc.jpg)
 
+<figure>
+   <img src="images/pandoc.jpg" alt="Picture of a BLT sandwich">
+   <figcaption>Figure 1: Your sandwich should look like this</figcaption>
+</figure>
+
 Figure 1: Pandoc download page.
 
 ![Windows Command Prompt](images/command_prompt.jpg)
